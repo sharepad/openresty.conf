@@ -30,6 +30,7 @@ Most uppercase elements should be changed.
 
 ## Directory structure
 
-- openresty.conf/ is where these configurations files are
+- openresty.conf/ is this project
+- assets/ contains static assets (images, CSS, etc.)
 - src/ contains the Lua code
-- templates/ contains HTML templates, using for instance [slt2](https://github.com/henix/slt2).
+- templates/ contains HTML templates, using for instance [slt2](https://github.com/henix/slt2)
